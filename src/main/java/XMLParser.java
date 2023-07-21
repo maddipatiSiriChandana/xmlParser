@@ -1,3 +1,13 @@
+//Author:Siri Chandana
+/*This program uses the DOM parser to parse the input XML files and extract the necessary information to produce the output text files. 
+It uses a list of strings to store the output for each input file. 
+It uses the parseInput1 method to parse input1.xml and the parseInput2 method to parse input2.xml. 
+The writeOutputToFile method is used to write the output to a file.
+It extracts the necessary information from the input XML files using the getElementsByTagName and getAttribute methods of the Element interface. 
+It then constructs the output strings by concatenating the extracted information.
+To run the program, simply compile it and run the main method. 
+It will generate the output files output1.txt and output2.txt in the same directory as the input files.
+*/
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
