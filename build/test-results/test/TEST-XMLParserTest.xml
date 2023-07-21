@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="XMLParserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-21T18:45:40" hostname="DESKTOP-ADGPE6G" time="0.034">
+  <properties/>
+  <testcase name="testParseInput2()" classname="XMLParserTest" time="0.026"/>
+  <testcase name="testWriteOutputToFile()" classname="XMLParserTest" time="0.005"/>
+  <testcase name="testP1arseInput1()" classname="XMLParserTest" time="0.001"/>
+  <system-out><![CDATA[connector:fromInstance=trans_ROUTER_EMPLOYEES_BY_JOB_ID, fromField=EMPLOYEE_ID5, toInstance=UC05_ROUTER_EMPLOYEES_ACCOUNT, toField=EMPLOYEE_ID
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

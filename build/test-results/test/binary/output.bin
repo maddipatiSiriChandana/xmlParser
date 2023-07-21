@@ -1,0 +1,1 @@
+êconnector:fromInstance=trans_ROUTER_EMPLOYEES_BY_JOB_ID, fromField=EMPLOYEE_ID5, toInstance=UC05_ROUTER_EMPLOYEES_ACCOUNT, toField=EMPLOYEE_ID
